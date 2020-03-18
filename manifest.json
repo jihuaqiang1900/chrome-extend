@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "name": "a chrome extend",
+    "description": "a useful extend develop by jihuaqiang",
+    "manifest_version": 2,
+    "icons": {
+        "128": "icon.png",
+        "40": "icon.png",
+        "16": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
